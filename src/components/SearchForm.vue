@@ -41,7 +41,8 @@
   border: 2px solid #5f5f5f;
   outline: 0;
   display: block;
-  width: 100%;
+  width:50%;
+  margin: 0 auto;
 }
 input:focus {
   border-color: #009ad7;
