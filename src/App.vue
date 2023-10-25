@@ -30,10 +30,9 @@ methods: {
   box-sizing: border-box;
 }
 body {
-  padding: 50px
+  padding: 30px;
 }
 #app {
-  width: 800px;
   margin: 0 auto;
 }
 </style>

@@ -40,9 +40,9 @@
   font-size: 18px;
   border: 2px solid #5f5f5f;
   outline: 0;
-  display: block;
   width:50%;
   margin: 0 auto;
+  display:grid;
 }
 input:focus {
   border-color: #009ad7;
